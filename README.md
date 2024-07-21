@@ -1,4 +1,4 @@
 # Electron
-Electron este o aplicatie realizata in echipa, ce are ca scop vizualizarea si editarea circuitelor/ schemelor electronice. Aceasta a fost construita in cadrul materiei "Introducere in Programare", in primul an universitar.
+Electron is an application created by the team, which aims to visualize and edit electronic circuits/diagrams. This was built within the "Introduction to Programming" subject, in the first academic year.
 
-Prezentare video: https://youtu.be/Bv9v2hG4Dyo
+Video: https://youtu.be/Bv9v2hG4Dyo
